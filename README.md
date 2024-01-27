@@ -19,8 +19,8 @@
 
 <h3 align="left">Platforms 🌐:</h3>
 <p align="left">
-<a>Root-Me : 275pts / https://www.root-me.org/mati-smrd</a>
-<a>picoCTF : 1090pts</a>
+- Root-Me : 275pts / https://www.root-me.org/mati-smrd
+- picoCTF : 1090pts
 </p>
 
 <h3 align="left">Languages and Tools 👨‍💻:</h3>
