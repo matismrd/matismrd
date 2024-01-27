@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matismrd&label=Profile%20views&color=54ace3&style=flat" alt="matismrd" /> </p>
 
-- 🔭 I’m currently working for **multiples sneakers groups**
+- 🔭 I’m currently working for **multiples Sneakers Groups 👟**
 
-- 🌱 I’m currently learning **Offensive Cybersecurity**
+- 🌱 I’m currently learning **Offensive Cybersecurity 🛡️**
 
 - 👨‍💻 All of my projects are available in my repos [https://github.com/matismrd?tab=repositories](https://github.com/matismrd?tab=repositories)
 
