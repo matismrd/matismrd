@@ -25,6 +25,8 @@
 - picoCTF : 1090pts
 
 - HackTheBox : https://app.hackthebox.com/users/886101
+
+  <script src="https://tryhackme.com/badge/2708683"></script>
 </p>
 
 <h3 align="left">Languages and Tools 👨‍💻:</h3>
