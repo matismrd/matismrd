@@ -24,7 +24,7 @@
   
 - picoCTF : 1090pts
 
-- HackTheBox : https://app.hackthebox.com/users/886101
+<img src="https://www.hackthebox.com/badge/image/886101" alt="RootMe">
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/matismrd.png" alt="TryHackMe">
 </p>
