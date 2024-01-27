@@ -23,6 +23,8 @@
 - Root-Me : 275pts / https://www.root-me.org/mati-smrd
   
 - picoCTF : 1090pts
+
+- HackTheBox : https://app.hackthebox.com/users/886101
 </p>
 
 <h3 align="left">Languages and Tools 👨‍💻:</h3>
