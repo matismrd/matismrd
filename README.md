@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://matismrd.me](https://matismrd.me)
 
-<h3 align="left">Connect with me 🌐:</h3>
+<h3 align="left">Connect with me 🔗:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matismrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matismrd" height="30" width="40" /></a>
 <a href="https://twitter.com/matismrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matismrd" height="30" width="40" /></a>
@@ -19,7 +19,8 @@
 
 <h3 align="left">Platforms 🌐:</h3>
 <p align="left">
-<a href="https://www.root-me.org/mati-smrd" target="blank"><img align="center" src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="matismrd" height="30" width="40" />4%</a>
+<a>Root-Me : 275pts / https://www.root-me.org/mati-smrd</a>
+<a>picoCTF : 1090pts</a>
 </p>
 
 <h3 align="left">Languages and Tools 👨‍💻:</h3>
